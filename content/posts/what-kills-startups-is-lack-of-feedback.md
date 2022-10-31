@@ -1,8 +1,10 @@
 ---
 title: "What Kills Startups Is Lack of Feedback"
-slug: "what-kills-startups-is-lack-of-feedback"
 date: 2022-10-03T17:04:37+02:00
-draft: true
+draft: false
+tags: ["startup"]
+featured_image: "/images/startup.jpg"
+description: ""
 ---
 
 # What kills startups is the lack of feedback

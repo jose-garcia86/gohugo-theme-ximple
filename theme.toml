@@ -4,8 +4,8 @@
 name = "Gohugo Theme Ximple"
 license = "MIT"
 licenselink = "https://github.com/jose-garcia86/gohugo-theme-ximple/LICENSE.md"
-description = ""
-homepage = ""
+description = "A "Hugo - Static Site Generator" theme for build full featured Hugo sites"
+homepage = "https://github.com/jose-garcia86/gohugo-theme-ximple"
 tags = ["website", "starter", "responsive", "Disqus", "blog", "Tachyons", "Multilingual", "Stackbit"]
 features = ["posts", "shortcodes", "related content", "comments"]
 min_version = "0.1.0"
